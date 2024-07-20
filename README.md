@@ -1,9 +1,11 @@
 # Pizza-Sales-Data-Analysis
 
 Overview:-
+
 This project employs SQL to examine pizza sales data, with the goal of identifying sales patterns, customer preferences, and business performance metrics. The analysis is conducted using a MySQL database named "pizzamania".
 
 Database Structure:-
+
 The "pizzamania" database is composed of four main tables:
 
 1.pizzas Table
@@ -38,23 +40,33 @@ Analysis Questions:-
 Basic
 
 1.Calculate the total number of orders.
+
 2.Determine the total revenue from pizza sales.
+
 3.Find the highest-priced pizza.
+
 4.Identify the most frequently ordered pizza size.
+
 5.List the top 5 most ordered pizza types and their quantities.
 
 Intermediate
 
 6.Aggregate data to find the total quantity of pizzas ordered by category.
+
 7.Analyze the distribution of orders by hour.
+
 8.Aggregate data to show the distribution of pizza orders by category.
+
 9.Calculate the average number of pizzas ordered per day.
+
 10.Identify the top 3 most ordered pizza types by revenue.
 
 Advanced
 
 11.Calculate the percentage revenue contribution of each pizza type.
+
 12.Examine the cumulative revenue over time.
+
 13.Identify the top 3 most ordered pizza types by revenue within each category.
 
 Presentation:-
